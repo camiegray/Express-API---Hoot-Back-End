@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Express JWT Auth Template
 
 ## About
@@ -28,3 +29,6 @@ Start the app in your terminal with:
 ``` sh
 npm run dev
 ```
+=======
+# Express-API---Hoot-Back-End
+>>>>>>> 976e3faa7157460913035b891517fcd357b06893
